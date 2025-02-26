@@ -1,12 +1,12 @@
 # 👋 Olá, me chamo Hiago!  
 ## 🚀 Bem-vindo ao meu perfil no GitHub!  
 
+🎓 **Atualmente Cursando:** Engenharia de Software - Bacharelado  
+📚 **Estudante do Projeto:** Next One - Oracle  
+🔄 **Em transição de carreira**  
 📍 **De onde sou?**  
 🏡 Moro em **Vitória da Conquista - Bahia**  
 🎂 Tenho **29 anos**  
-
-🎓 **Atualmente estudando:** Engenharia de Software - Bacharelado  
-🔄 **Em transição de carreira**  
 
 💻 **Conhecimento em:**  
 <p align="left">
@@ -23,10 +23,7 @@
 - 🔢 Lógica de Programação  
 - ☕ Programação Orientada a Objetos (POO)  
 - 🔗 APIs REST  
-- 🐍 Desenvolvimento com Python  
 - 🧪 Testes automatizados com JUnit 5  
-
-📚 **Cursando:** Next One - Oracle  
 
 <div>
 <a href="https://github.com/HiagoAlvesdasilva">
